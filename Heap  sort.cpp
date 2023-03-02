@@ -1,4 +1,3 @@
-
 /*
 * C Program to sort an array based on heap sort algorithm(MAX heap)
 */
